@@ -11,3 +11,7 @@ dist/
 
 # corpus stays local
 data/
+
+# eval sets: local only for now (contain quotes + screenshots of copyrighted codes)
+evals/datasets/human_v1/
+evals/datasets/claude_v1/
